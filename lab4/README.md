@@ -6,7 +6,7 @@
 
 ## The brief
 
-> ### Tell a stranger something true about your contry/region  that they could not have guessed, using data that did not all exist a year ago, and put it at a link that everyone can open on a phone.
+> ### Tell a stranger something true about your home city/contry/region  that they could not have guessed, using data that did not all exist a year ago, and put it at a link that everyone can open on a phone.
 
 You will work with the **Codex agent in VS Code** for the whole ninety minutes. It will find data, write
 the fetch, parse it, and build the charts. **None of that is what you are graded on.**
