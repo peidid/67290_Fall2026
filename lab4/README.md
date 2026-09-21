@@ -6,7 +6,7 @@
 
 ## The brief
 
-> ### Tell a stranger something true about the Arab world that they could not have guessed — using data that did not all exist a year ago — and put it at a link they can open on their phone.
+> ### Tell a stranger something true about your contry/region  that they could not have guessed, using data that did not all exist a year ago, and put it at a link that everyone can open on a phone.
 
 You will work with the **Codex agent in VS Code** for the whole ninety minutes. It will find data, write
 the fetch, parse it, and build the charts. **None of that is what you are graded on.**
@@ -14,7 +14,7 @@ the fetch, parse it, and build the charts. **None of that is what you are graded
 You are graded on the **decisions**: which story, which data, how many charts, what they say, and what you
 refused. The agent cannot make those. This lab is ninety minutes of proving that you can.
 
-**Build it in Observable Framework**, the same way you did in Lab 0. Deployment is your call — the agent
+**Build it in Observable Framework**, the same way you did in Lab 1. Deployment is your call — the agent
 knows several ways to put a site on the internet. Pick one, make it work, and be able to say why.
 
 > **"Did not all exist a year ago"** — a live API (weather, air quality) satisfies this on its own. An
