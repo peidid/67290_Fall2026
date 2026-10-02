@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Javascript with HTML</title>
+</head>
+<body>
+    <section>
+        <hr> <!-- you can ignore this; <hr> is a tag used to style and separate sections -->
+
+        <h1 style="color: teal; text-align: center;">Welcome to the Javascript Foundations Lab!</h1>
+        <hr>
+
+        <h1 style="color: green; text-align: center;">Challenge 3.1 | Example</h1>
+        <!--Challenge 3.1 | Example-->
+        <div id="myDiv">Hello</div>
+        <p class="myP">Paragraph</p>
+        <h1>Heading</h1>
+
+        <hr>
+    </section>
+
+    <section>
+        <h1 style="color: blue; text-align: center;">Challenge 3.1 | Your Turn</h1>
+        <!--Challenge 3.1 | Your Turn-->
+        <div id="anotherDiv">Hello</div>
+        <p class="anotherP">Paragraph</p>
+    
+        <script src="index.js"></script>
+
+        <hr>
+    </section>
+
+    <section>
+        <hr>
+
+        <h1 style="color: green; text-align: center;">Challenge 3.2.1 | Example</h1>
+        <!-- Challenge 3.2.1 | Example -->
+        <button id="changeContentBtn">Change The Content Below</button>
+        <div id="changeContentDiv"><h4>Original Content</h4></div>
+        <script>
+            document.getElementById("changeContentBtn").addEventListener("click", function() {
+                document.getElementById("changeContentDiv").textContent = "Content Changed!";
+            });
+        </script>
+
+        <hr>
+    </section>
+
+
+    <section>
+        <h1 style="color: blue; text-align: center;">Challenge 3.2.2 | Your Turn</h1>
+        <!-- Challenge 3.2.2 | Your Turn -->
+        <!-- This is the button-click version of Challenge 3.2 from index.js: same idea
+             (changing an element's content), but triggered by a click instead of running
+             right away. Copy the pattern from "Challenge 3.2.1 | Example" above, using
+             changeAnotherContentBtn and anotherContentDiv instead. -->
+        <button id="changeAnotherContentBtn">Change The Content Below</button>
+        <div id="anotherContentDiv"><h4>Your Original Content</h4></div>
+        <script>
+            // Your code here
+        </script>
+
+        <hr>
+
+        <!-- you can ignore this; this is for styling purposes -->
+        <h1 style="color: green; text-align: center;">Challenge 3.3.1 | Example</h1>
+    </section>
+
+
+    <section>
+        <h1 style="color: green; text-align: center;">Challenge 3.3.2 | Example</h1>
+        <!-- Challenge 3.3.2 | Example-->
+        <form id="myForm">
+            <input type="text" id="itemInput">
+            <button type="submit">Add Item</button>
+        </form>
+        <ul id="itemList"><strong><em>Grocery List</em></strong></ul>
+        <script>
+            // Pre-add some items to the list for illustrative purposes [THIS IS JUST FOR THE EXAMPLE, not necessary].
+            const initialItems = ["Milk", "Eggs", "Bread"];
+            // Loops through the given array InitialItems to add its elements to the list.
+            initialItems.forEach(item => {
+                let listItem = document.createElement("li");
+                listItem.textContent = item;
+                document.getElementById("itemList").appendChild(listItem);
+            });
+
+            // Code to actually add items to the list.
+            document.getElementById("myForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            // Gets the value inputted by the user into the input field.
+            let item = document.getElementById("itemInput").value;
+            if (item.trim() !== '') { // Ensures the input is not empty or just spaces. ".trim" removes all whitespaces.
+                // Creates an <li> element (a list item element).
+                let listItem = document.createElement("li");
+                // Sets the text of the list item element to the item value inputted by the user.
+                listItem.textContent = item;
+                // Adds the list item element to the DOM.
+                document.getElementById("itemList").appendChild(listItem);
+                // Clears the input field after submission.
+                document.getElementById("itemInput").value = ''; 
+            }
+            });
+        </script>
+
+        <hr>
+    </section>
+    
+    <section>
+        <h1 style="color: green; text-align: center;">Challenge 4.1 | Example</h1>
+        <!-- Challenge 4.1 | Example -->
+        <div style="text-align: center;">
+            <button id="alertBtn" style="font-size: 20px; padding: 15px 30px;">Click Me!</button>
+        </div>
+        <script>
+            document.getElementById("alertBtn").addEventListener("click", function() {
+                alert("Button Clicked!");
+            });
+        </script>
+
+        <hr>
+    </section>
+    
+    <section>
+        <h1 style="color: blue; text-align: center;">Challenge 4.1 | Your Turn</h1>
+        <!-- Challenge 4.1 | Your Turn -->
+         <!-- Here's a resource for a potential hint: https://rb.gy/2vl4fs -->
+        <div id="colorDiv" style="width:100px; height:100px; background-color:lightblue;"></div>
+        <script>
+            // Your code here
+        </script>
+        <button id="colorBtn">Change Color</button>
+
+        <hr>
+    </section>
+    
+    <section>
+        <h1 style="color: green; text-align: center;">Challenge 4.1.2 | Example</h1>
+        <!-- Challenge 4.1.2 | Example -->
+        <div id="clickArea" style="width:300px; height:300px; border:1px solid black;"></div>
+        <script>
+            document.getElementById("clickArea").addEventListener("click", function(event) {
+                console.log("X: " + event.clientX + ", Y: " + event.clientY);
+            });
+        </script>
+
+        <hr>
+    </section>
+
+    <section>
+        <h1 style="color: green; text-align: center;">Challenge 5.1 | Example</h1>
+        <!-- Challenge 5.1 | Example -->
+        <button id="handleAsyncButton">Get Promise Result</button>
+        <h4 id="result">[Promise Result Here]</h4>
+        <script>
+            function asyncFunction() {
+                return new Promise((resolve, reject) => {
+                    setTimeout(() => {
+                        let success = true;
+                        if (success) {
+                            resolve('Operation was successful | Promise resolved!');
+                        } else {
+                            reject('Operation failed | Promise rejected!');
+                        }
+                    }, 1000);
+                });
+            }
+
+            document.getElementById('handleAsyncButton').addEventListener('click', () => {
+                asyncFunction()
+                    .then(message => {
+                        document.getElementById('result').innerText = message;
+                    })
+                    .catch(error => {
+                        document.getElementById('result').innerText = error;
+                    });
+            });
+        </script>
+
+        <hr>
+    </section>
+
+    <section>
+        <h1 style="color: blue; text-align: center;">Challenge 5.1 | Your Turn</h1>
+        <!-- Challenge 5.1 | Your Turn -->
+        <button id="handleYourAsyncButton">Get Your Promise Result</button>
+        <h4 id="yourResult">[Your Promise Results Here]</h4>
+        <script>
+            function yourAsyncFunction() {
+                // Your code here
+            }
+
+            document.getElementById('handleYourAsyncButton').addEventListener('click', () => {
+                // Your Code here
+            });
+        </script>
+
+        <hr>
+    </section>
+
+    <section>
+        <h1 style="color: green; text-align: center;">Challenge 5.2.1 | Example</h1>
+        <!-- Challenge 5.2.1 | Example -->
+        <button id="fetchRawDataButton">Fetch Raw Data</button>
+        <h3>Raw Data</h3>
+        
+        <div id="rawDataDisplay"><h4>[This will display the raw, unprocessed data in JSON format from the API endpoint.]</h4></div>
+        <script>
+            document.getElementById('fetchRawDataButton').addEventListener('click', fetchRawData);
+        </script>
+
+        <hr>
+
+        <h1 style="color: green; text-align: center;">Challenge 5.2.2 | Example</h1>
+        <!-- Challenge 5.2.2 | Example -->
+        <button id="fetchDataButton">Fetch Formatted Data</button>
+        <h3>Formatted Data</h3>
+        <div id="dataDisplay"><h4>[This will display the fetched API data.]</h4></div>
+        <script>
+            document.getElementById('fetchDataButton').addEventListener('click', fetchData);
+        </script>
+
+        <hr>
+    </section>
+
+    <section>
+        <h1 style="color: blue; text-align: center;">Challenge 5.2.3 | Your Turn</h1>
+        <!-- Challenge 5.2.3 | Your Turn -->
+        <button id="fetchYourDataButton">Fetch Data</button>
+        <div id="yourDataDisplay"><h4>[Your Fetched Data Here]</h4></div>
+        <script>
+            document.getElementById('fetchYourDataButton').addEventListener('click', fetchYourData);
+        </script>
+
+        <hr>
+    </section>
+
+</body>
+</html>

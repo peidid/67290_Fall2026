@@ -1,0 +1,544 @@
+﻿zone,zone_name,municipality,year,accidents
+1,Al Jasra 01,Doha Municipality,2020,505
+1,Al Jasra 01,Doha Municipality,2021,756
+1,Al Jasra 01,Doha Municipality,2022,812
+1,Al Jasra 01,Doha Municipality,2023,625
+1,Al Jasra 01,Doha Municipality,2024,617
+1,Al Jasra 01,Doha Municipality,2025,131
+2,Al Bidda 02,Doha Municipality,2020,152
+2,Al Bidda 02,Doha Municipality,2021,182
+2,Al Bidda 02,Doha Municipality,2022,213
+2,Al Bidda 02,Doha Municipality,2023,147
+2,Al Bidda 02,Doha Municipality,2024,185
+2,Al Bidda 02,Doha Municipality,2025,32
+3,Fereej Mohammed Bin Jasim - Mushaireb 03,Doha Municipality,2020,260
+3,Fereej Mohammed Bin Jasim - Mushaireb 03,Doha Municipality,2021,322
+3,Fereej Mohammed Bin Jasim - Mushaireb 03,Doha Municipality,2022,447
+3,Fereej Mohammed Bin Jasim - Mushaireb 03,Doha Municipality,2023,433
+3,Fereej Mohammed Bin Jasim - Mushaireb 03,Doha Municipality,2024,506
+3,Fereej Mohammed Bin Jasim - Mushaireb 03,Doha Municipality,2025,113
+4,Mushaireb 04,Doha Municipality,2020,585
+4,Mushaireb 04,Doha Municipality,2021,803
+4,Mushaireb 04,Doha Municipality,2022,1628
+4,Mushaireb 04,Doha Municipality,2023,1267
+4,Mushaireb 04,Doha Municipality,2024,1057
+4,Mushaireb 04,Doha Municipality,2025,191
+5,Al Najada - Brahat Al Jufairy - Fereej Al Asmakh 05,Doha Municipality,2020,585
+5,Al Najada - Brahat Al Jufairy - Fereej Al Asmakh 05,Doha Municipality,2021,587
+5,Al Najada - Brahat Al Jufairy - Fereej Al Asmakh 05,Doha Municipality,2022,500
+5,Al Najada - Brahat Al Jufairy - Fereej Al Asmakh 05,Doha Municipality,2023,365
+5,Al Najada - Brahat Al Jufairy - Fereej Al Asmakh 05,Doha Municipality,2024,272
+5,Al Najada - Brahat Al Jufairy - Fereej Al Asmakh 05,Doha Municipality,2025,45
+6,Old Al Ghanim 06,Doha Municipality,2020,704
+6,Old Al Ghanim 06,Doha Municipality,2021,795
+6,Old Al Ghanim 06,Doha Municipality,2022,660
+6,Old Al Ghanim 06,Doha Municipality,2023,427
+6,Old Al Ghanim 06,Doha Municipality,2024,392
+6,Old Al Ghanim 06,Doha Municipality,2025,62
+7,Al Souq 07,Doha Municipality,2020,787
+7,Al Souq 07,Doha Municipality,2021,822
+7,Al Souq 07,Doha Municipality,2022,959
+7,Al Souq 07,Doha Municipality,2023,714
+7,Al Souq 07,Doha Municipality,2024,674
+7,Al Souq 07,Doha Municipality,2025,108
+12,Al Bidda 12,Doha Municipality,2020,637
+12,Al Bidda 12,Doha Municipality,2021,735
+12,Al Bidda 12,Doha Municipality,2022,951
+12,Al Bidda 12,Doha Municipality,2023,838
+12,Al Bidda 12,Doha Municipality,2024,916
+12,Al Bidda 12,Doha Municipality,2025,136
+13,Mushaireb 13,Doha Municipality,2020,878
+13,Mushaireb 13,Doha Municipality,2021,1106
+13,Mushaireb 13,Doha Municipality,2022,1272
+13,Mushaireb 13,Doha Municipality,2023,1172
+13,Mushaireb 13,Doha Municipality,2024,1220
+13,Mushaireb 13,Doha Municipality,2025,194
+14,Fereej Abdel Aziz 14,Doha Municipality,2020,922
+14,Fereej Abdel Aziz 14,Doha Municipality,2021,1005
+14,Fereej Abdel Aziz 14,Doha Municipality,2022,1225
+14,Fereej Abdel Aziz 14,Doha Municipality,2023,1017
+14,Fereej Abdel Aziz 14,Doha Municipality,2024,1022
+14,Fereej Abdel Aziz 14,Doha Municipality,2025,158
+15,Al Doha Al Jadeeda 15,Doha Municipality,2020,780
+15,Al Doha Al Jadeeda 15,Doha Municipality,2021,981
+15,Al Doha Al Jadeeda 15,Doha Municipality,2022,992
+15,Al Doha Al Jadeeda 15,Doha Municipality,2023,762
+15,Al Doha Al Jadeeda 15,Doha Municipality,2024,820
+15,Al Doha Al Jadeeda 15,Doha Municipality,2025,127
+16,Old Al Ghanim 16,Doha Municipality,2020,712
+16,Old Al Ghanim 16,Doha Municipality,2021,1018
+16,Old Al Ghanim 16,Doha Municipality,2022,1019
+16,Old Al Ghanim 16,Doha Municipality,2023,624
+16,Old Al Ghanim 16,Doha Municipality,2024,771
+16,Old Al Ghanim 16,Doha Municipality,2025,145
+17,Al Rufaa - Old Al Hitmi 17,Doha Municipality,2020,420
+17,Al Rufaa - Old Al Hitmi 17,Doha Municipality,2021,612
+17,Al Rufaa - Old Al Hitmi 17,Doha Municipality,2022,588
+17,Al Rufaa - Old Al Hitmi 17,Doha Municipality,2023,448
+17,Al Rufaa - Old Al Hitmi 17,Doha Municipality,2024,491
+17,Al Rufaa - Old Al Hitmi 17,Doha Municipality,2025,87
+18,Slata - Al Mirqab 18,Doha Municipality,2020,631
+18,Slata - Al Mirqab 18,Doha Municipality,2021,1001
+18,Slata - Al Mirqab 18,Doha Municipality,2022,1044
+18,Slata - Al Mirqab 18,Doha Municipality,2023,836
+18,Slata - Al Mirqab 18,Doha Municipality,2024,869
+18,Slata - Al Mirqab 18,Doha Municipality,2025,134
+19,Zone 19,Doha Municipality,2020,232
+19,Zone 19,Doha Municipality,2021,290
+19,Zone 19,Doha Municipality,2022,365
+19,Zone 19,Doha Municipality,2023,455
+19,Zone 19,Doha Municipality,2024,474
+19,Zone 19,Doha Municipality,2025,122
+20,Wadi Al Sail 20,Doha Municipality,2020,514
+20,Wadi Al Sail 20,Doha Municipality,2021,734
+20,Wadi Al Sail 20,Doha Municipality,2022,895
+20,Wadi Al Sail 20,Doha Municipality,2023,835
+20,Wadi Al Sail 20,Doha Municipality,2024,934
+20,Wadi Al Sail 20,Doha Municipality,2025,166
+21,Rumaila 21,Doha Municipality,2020,678
+21,Rumaila 21,Doha Municipality,2021,880
+21,Rumaila 21,Doha Municipality,2022,959
+21,Rumaila 21,Doha Municipality,2023,938
+21,Rumaila 21,Doha Municipality,2024,1287
+21,Rumaila 21,Doha Municipality,2025,214
+22,Fereej Bin Mahmoud 22,Doha Municipality,2020,807
+22,Fereej Bin Mahmoud 22,Doha Municipality,2021,1184
+22,Fereej Bin Mahmoud 22,Doha Municipality,2022,1138
+22,Fereej Bin Mahmoud 22,Doha Municipality,2023,947
+22,Fereej Bin Mahmoud 22,Doha Municipality,2024,1104
+22,Fereej Bin Mahmoud 22,Doha Municipality,2025,211
+23,Fereej Bin Mahmoud 23,Doha Municipality,2020,1507
+23,Fereej Bin Mahmoud 23,Doha Municipality,2021,2206
+23,Fereej Bin Mahmoud 23,Doha Municipality,2022,2315
+23,Fereej Bin Mahmoud 23,Doha Municipality,2023,2151
+23,Fereej Bin Mahmoud 23,Doha Municipality,2024,2142
+23,Fereej Bin Mahmoud 23,Doha Municipality,2025,330
+24,Rawdat Al Khail 24,Doha Municipality,2020,1825
+24,Rawdat Al Khail 24,Doha Municipality,2021,2423
+24,Rawdat Al Khail 24,Doha Municipality,2022,2938
+24,Rawdat Al Khail 24,Doha Municipality,2023,2691
+24,Rawdat Al Khail 24,Doha Municipality,2024,2861
+24,Rawdat Al Khail 24,Doha Municipality,2025,510
+25,Al Mansoura - Fereej Bin Dirham 25,Doha Municipality,2020,2384
+25,Al Mansoura - Fereej Bin Dirham 25,Doha Municipality,2021,2906
+25,Al Mansoura - Fereej Bin Dirham 25,Doha Municipality,2022,3480
+25,Al Mansoura - Fereej Bin Dirham 25,Doha Municipality,2023,3309
+25,Al Mansoura - Fereej Bin Dirham 25,Doha Municipality,2024,3147
+25,Al Mansoura - Fereej Bin Dirham 25,Doha Municipality,2025,472
+26,Najma 26,Doha Municipality,2020,2480
+26,Najma 26,Doha Municipality,2021,2651
+26,Najma 26,Doha Municipality,2022,2973
+26,Najma 26,Doha Municipality,2023,2280
+26,Najma 26,Doha Municipality,2024,2096
+26,Najma 26,Doha Municipality,2025,356
+27,Umm Ghuwailina 27,Doha Municipality,2020,1637
+27,Umm Ghuwailina 27,Doha Municipality,2021,1974
+27,Umm Ghuwailina 27,Doha Municipality,2022,2192
+27,Umm Ghuwailina 27,Doha Municipality,2023,1980
+27,Umm Ghuwailina 27,Doha Municipality,2024,2075
+27,Umm Ghuwailina 27,Doha Municipality,2025,360
+28,Al Khulaifat - Ras Bu Abboud 28,Doha Municipality,2020,182
+28,Al Khulaifat - Ras Bu Abboud 28,Doha Municipality,2021,269
+28,Al Khulaifat - Ras Bu Abboud 28,Doha Municipality,2022,321
+28,Al Khulaifat - Ras Bu Abboud 28,Doha Municipality,2023,305
+28,Al Khulaifat - Ras Bu Abboud 28,Doha Municipality,2024,296
+28,Al Khulaifat - Ras Bu Abboud 28,Doha Municipality,2025,44
+29,Ras Bu Abboud 29,Doha Municipality,2020,167
+29,Ras Bu Abboud 29,Doha Municipality,2021,172
+29,Ras Bu Abboud 29,Doha Municipality,2022,230
+29,Ras Bu Abboud 29,Doha Municipality,2023,162
+29,Ras Bu Abboud 29,Doha Municipality,2024,148
+29,Ras Bu Abboud 29,Doha Municipality,2025,29
+30,Duhail 30,Doha Municipality,2020,1927
+30,Duhail 30,Doha Municipality,2021,2473
+30,Duhail 30,Doha Municipality,2022,2823
+30,Duhail 30,Doha Municipality,2023,2768
+30,Duhail 30,Doha Municipality,2024,2800
+30,Duhail 30,Doha Municipality,2025,515
+31,Umm Lekhba 31,Doha Municipality,2020,1342
+31,Umm Lekhba 31,Doha Municipality,2021,2133
+31,Umm Lekhba 31,Doha Municipality,2022,2987
+31,Umm Lekhba 31,Doha Municipality,2023,2343
+31,Umm Lekhba 31,Doha Municipality,2024,2781
+31,Umm Lekhba 31,Doha Municipality,2025,507
+32,Madinat Khalifa North - Dahl Al Hamam 32,Doha Municipality,2020,1826
+32,Madinat Khalifa North - Dahl Al Hamam 32,Doha Municipality,2021,2504
+32,Madinat Khalifa North - Dahl Al Hamam 32,Doha Municipality,2022,2466
+32,Madinat Khalifa North - Dahl Al Hamam 32,Doha Municipality,2023,2290
+32,Madinat Khalifa North - Dahl Al Hamam 32,Doha Municipality,2024,2856
+32,Madinat Khalifa North - Dahl Al Hamam 32,Doha Municipality,2025,446
+33,Al Markhiya 33,Doha Municipality,2020,1197
+33,Al Markhiya 33,Doha Municipality,2021,1631
+33,Al Markhiya 33,Doha Municipality,2022,1638
+33,Al Markhiya 33,Doha Municipality,2023,1391
+33,Al Markhiya 33,Doha Municipality,2024,1310
+33,Al Markhiya 33,Doha Municipality,2025,253
+34,Madinat Khalifa South 34,Doha Municipality,2020,6155
+34,Madinat Khalifa South 34,Doha Municipality,2021,7932
+34,Madinat Khalifa South 34,Doha Municipality,2022,8758
+34,Madinat Khalifa South 34,Doha Municipality,2023,8915
+34,Madinat Khalifa South 34,Doha Municipality,2024,7721
+34,Madinat Khalifa South 34,Doha Municipality,2025,1230
+35,Fereej Kulaib 35,Doha Municipality,2020,671
+35,Fereej Kulaib 35,Doha Municipality,2021,1476
+35,Fereej Kulaib 35,Doha Municipality,2022,1062
+35,Fereej Kulaib 35,Doha Municipality,2023,964
+35,Fereej Kulaib 35,Doha Municipality,2024,1116
+35,Fereej Kulaib 35,Doha Municipality,2025,211
+36,Al Messila 36,Doha Municipality,2020,1163
+36,Al Messila 36,Doha Municipality,2021,1525
+36,Al Messila 36,Doha Municipality,2022,1740
+36,Al Messila 36,Doha Municipality,2023,1549
+36,Al Messila 36,Doha Municipality,2024,1538
+36,Al Messila 36,Doha Municipality,2025,229
+37,Fereej Bin Omran - New Al Hitmi - Hamad Medical City 37,Doha Municipality,2020,2679
+37,Fereej Bin Omran - New Al Hitmi - Hamad Medical City 37,Doha Municipality,2021,3398
+37,Fereej Bin Omran - New Al Hitmi - Hamad Medical City 37,Doha Municipality,2022,3552
+37,Fereej Bin Omran - New Al Hitmi - Hamad Medical City 37,Doha Municipality,2023,3551
+37,Fereej Bin Omran - New Al Hitmi - Hamad Medical City 37,Doha Municipality,2024,3553
+37,Fereej Bin Omran - New Al Hitmi - Hamad Medical City 37,Doha Municipality,2025,483
+38,Al Sadd 38,Doha Municipality,2020,2833
+38,Al Sadd 38,Doha Municipality,2021,2634
+38,Al Sadd 38,Doha Municipality,2022,2897
+38,Al Sadd 38,Doha Municipality,2023,2699
+38,Al Sadd 38,Doha Municipality,2024,2967
+38,Al Sadd 38,Doha Municipality,2025,468
+39,Al Sadd - New Al Mirqab - Fereej Al Nasr 39,Doha Municipality,2020,2916
+39,Al Sadd - New Al Mirqab - Fereej Al Nasr 39,Doha Municipality,2021,4065
+39,Al Sadd - New Al Mirqab - Fereej Al Nasr 39,Doha Municipality,2022,4571
+39,Al Sadd - New Al Mirqab - Fereej Al Nasr 39,Doha Municipality,2023,4290
+39,Al Sadd - New Al Mirqab - Fereej Al Nasr 39,Doha Municipality,2024,4589
+39,Al Sadd - New Al Mirqab - Fereej Al Nasr 39,Doha Municipality,2025,717
+40,New Slata 40,Doha Municipality,2020,1698
+40,New Slata 40,Doha Municipality,2021,2723
+40,New Slata 40,Doha Municipality,2022,2978
+40,New Slata 40,Doha Municipality,2023,2627
+40,New Slata 40,Doha Municipality,2024,2960
+40,New Slata 40,Doha Municipality,2025,521
+41,Nuaija 41,Doha Municipality,2020,613
+41,Nuaija 41,Doha Municipality,2021,855
+41,Nuaija 41,Doha Municipality,2022,1008
+41,Nuaija 41,Doha Municipality,2023,840
+41,Nuaija 41,Doha Municipality,2024,954
+41,Nuaija 41,Doha Municipality,2025,134
+42,Al Hilal 42,Doha Municipality,2020,1383
+42,Al Hilal 42,Doha Municipality,2021,1728
+42,Al Hilal 42,Doha Municipality,2022,1750
+42,Al Hilal 42,Doha Municipality,2023,1644
+42,Al Hilal 42,Doha Municipality,2024,1526
+42,Al Hilal 42,Doha Municipality,2025,257
+43,Nuaija 43,Doha Municipality,2020,1861
+43,Nuaija 43,Doha Municipality,2021,2390
+43,Nuaija 43,Doha Municipality,2022,2739
+43,Nuaija 43,Doha Municipality,2023,2936
+43,Nuaija 43,Doha Municipality,2024,2929
+43,Nuaija 43,Doha Municipality,2025,454
+44,Nuaija 44,Doha Municipality,2020,854
+44,Nuaija 44,Doha Municipality,2021,1206
+44,Nuaija 44,Doha Municipality,2022,1401
+44,Nuaija 44,Doha Municipality,2023,1377
+44,Nuaija 44,Doha Municipality,2024,1721
+44,Nuaija 44,Doha Municipality,2025,245
+45,Old Airport 45,Doha Municipality,2020,8732
+45,Old Airport 45,Doha Municipality,2021,12785
+45,Old Airport 45,Doha Municipality,2022,7526
+45,Old Airport 45,Doha Municipality,2023,6550
+45,Old Airport 45,Doha Municipality,2024,6993
+45,Old Airport 45,Doha Municipality,2025,1018
+46,Al Thumama 46,Doha Municipality,2020,1041
+46,Al Thumama 46,Doha Municipality,2021,1828
+46,Al Thumama 46,Doha Municipality,2022,2027
+46,Al Thumama 46,Doha Municipality,2023,1856
+46,Al Thumama 46,Doha Municipality,2024,2310
+46,Al Thumama 46,Doha Municipality,2025,365
+47,Al Thumama 47,Doha Municipality,2020,990
+47,Al Thumama 47,Doha Municipality,2021,1356
+47,Al Thumama 47,Doha Municipality,2022,1451
+47,Al Thumama 47,Doha Municipality,2023,1300
+47,Al Thumama 47,Doha Municipality,2024,1519
+47,Al Thumama 47,Doha Municipality,2025,245
+48,Doha International Airport 48,Doha Municipality,2020,649
+48,Doha International Airport 48,Doha Municipality,2021,919
+48,Doha International Airport 48,Doha Municipality,2022,1066
+48,Doha International Airport 48,Doha Municipality,2023,960
+48,Doha International Airport 48,Doha Municipality,2024,1090
+48,Doha International Airport 48,Doha Municipality,2025,156
+49,Hamad International Airport - Banana Island - Ras Bu Funtas 49,Doha Municipality,2020,615
+49,Hamad International Airport - Banana Island - Ras Bu Funtas 49,Doha Municipality,2021,1009
+49,Hamad International Airport - Banana Island - Ras Bu Funtas 49,Doha Municipality,2022,1400
+49,Hamad International Airport - Banana Island - Ras Bu Funtas 49,Doha Municipality,2023,1143
+49,Hamad International Airport - Banana Island - Ras Bu Funtas 49,Doha Municipality,2024,1335
+49,Hamad International Airport - Banana Island - Ras Bu Funtas 49,Doha Municipality,2025,210
+50,Al Thumama 50,Doha Municipality,2020,263
+50,Al Thumama 50,Doha Municipality,2021,427
+50,Al Thumama 50,Doha Municipality,2022,525
+50,Al Thumama 50,Doha Municipality,2023,505
+50,Al Thumama 50,Doha Municipality,2024,643
+50,Al Thumama 50,Doha Municipality,2025,116
+51,Al Gharrafa - Gharrafat Al Rayyan - Izghawa - Bani Hajer - Al Seej - Rawdat Egdaim - Al Themaid 51,Al Rayyan Municipality,2020,5741
+51,Al Gharrafa - Gharrafat Al Rayyan - Izghawa - Bani Hajer - Al Seej - Rawdat Egdaim - Al Themaid 51,Al Rayyan Municipality,2021,6978
+51,Al Gharrafa - Gharrafat Al Rayyan - Izghawa - Bani Hajer - Al Seej - Rawdat Egdaim - Al Themaid 51,Al Rayyan Municipality,2022,7510
+51,Al Gharrafa - Gharrafat Al Rayyan - Izghawa - Bani Hajer - Al Seej - Rawdat Egdaim - Al Themaid 51,Al Rayyan Municipality,2023,7305
+51,Al Gharrafa - Gharrafat Al Rayyan - Izghawa - Bani Hajer - Al Seej - Rawdat Egdaim - Al Themaid 51,Al Rayyan Municipality,2024,7733
+51,Al Gharrafa - Gharrafat Al Rayyan - Izghawa - Bani Hajer - Al Seej - Rawdat Egdaim - Al Themaid 51,Al Rayyan Municipality,2025,1357
+52,Al Luqta - Lebday - Old Al Rayyan - Al Shagub - Fereej Al Zaeem 52,Al Rayyan Municipality,2020,3954
+52,Al Luqta - Lebday - Old Al Rayyan - Al Shagub - Fereej Al Zaeem 52,Al Rayyan Municipality,2021,8041
+52,Al Luqta - Lebday - Old Al Rayyan - Al Shagub - Fereej Al Zaeem 52,Al Rayyan Municipality,2022,8422
+52,Al Luqta - Lebday - Old Al Rayyan - Al Shagub - Fereej Al Zaeem 52,Al Rayyan Municipality,2023,8261
+52,Al Luqta - Lebday - Old Al Rayyan - Al Shagub - Fereej Al Zaeem 52,Al Rayyan Municipality,2024,9838
+52,Al Luqta - Lebday - Old Al Rayyan - Al Shagub - Fereej Al Zaeem 52,Al Rayyan Municipality,2025,1630
+53,New Al Rayyan - Al Wajba - Muaither 53,Al Rayyan Municipality,2020,7808
+53,New Al Rayyan - Al Wajba - Muaither 53,Al Rayyan Municipality,2021,8998
+53,New Al Rayyan - Al Wajba - Muaither 53,Al Rayyan Municipality,2022,10030
+53,New Al Rayyan - Al Wajba - Muaither 53,Al Rayyan Municipality,2023,9074
+53,New Al Rayyan - Al Wajba - Muaither 53,Al Rayyan Municipality,2024,8520
+53,New Al Rayyan - Al Wajba - Muaither 53,Al Rayyan Municipality,2025,1481
+54,Fereej Al Amir - Luaib - Muraikh - Baaya - Mehairja - Fereej Al Soudan 54,Al Rayyan Municipality,2020,3516
+54,Fereej Al Amir - Luaib - Muraikh - Baaya - Mehairja - Fereej Al Soudan 54,Al Rayyan Municipality,2021,4364
+54,Fereej Al Amir - Luaib - Muraikh - Baaya - Mehairja - Fereej Al Soudan 54,Al Rayyan Municipality,2022,4955
+54,Fereej Al Amir - Luaib - Muraikh - Baaya - Mehairja - Fereej Al Soudan 54,Al Rayyan Municipality,2023,5386
+54,Fereej Al Amir - Luaib - Muraikh - Baaya - Mehairja - Fereej Al Soudan 54,Al Rayyan Municipality,2024,5183
+54,Fereej Al Amir - Luaib - Muraikh - Baaya - Mehairja - Fereej Al Soudan 54,Al Rayyan Municipality,2025,879
+55,Fereej Al Soudan - Al Waab - Al Aziziya - New Fereej Al Ghanim - Fereej Al Murra - Fereej Al Manaseer - Bu Sidra - Muaither - Al Sailiya - Al Mearad 55,Al Rayyan Municipality,2020,10189
+55,Fereej Al Soudan - Al Waab - Al Aziziya - New Fereej Al Ghanim - Fereej Al Murra - Fereej Al Manaseer - Bu Sidra - Muaither - Al Sailiya - Al Mearad 55,Al Rayyan Municipality,2021,14671
+55,Fereej Al Soudan - Al Waab - Al Aziziya - New Fereej Al Ghanim - Fereej Al Murra - Fereej Al Manaseer - Bu Sidra - Muaither - Al Sailiya - Al Mearad 55,Al Rayyan Municipality,2022,15670
+55,Fereej Al Soudan - Al Waab - Al Aziziya - New Fereej Al Ghanim - Fereej Al Murra - Fereej Al Manaseer - Bu Sidra - Muaither - Al Sailiya - Al Mearad 55,Al Rayyan Municipality,2023,14449
+55,Fereej Al Soudan - Al Waab - Al Aziziya - New Fereej Al Ghanim - Fereej Al Murra - Fereej Al Manaseer - Bu Sidra - Muaither - Al Sailiya - Al Mearad 55,Al Rayyan Municipality,2024,15966
+55,Fereej Al Soudan - Al Waab - Al Aziziya - New Fereej Al Ghanim - Fereej Al Murra - Fereej Al Manaseer - Bu Sidra - Muaither - Al Sailiya - Al Mearad 55,Al Rayyan Municipality,2025,2515
+56,Fereej Al Asiri - New Fereej Al Khulaifat - Bu Samra - Al Maamoura - Bu Hamour - Mesaimeer - Ain Khaled 56,Al Rayyan Municipality,2020,14369
+56,Fereej Al Asiri - New Fereej Al Khulaifat - Bu Samra - Al Maamoura - Bu Hamour - Mesaimeer - Ain Khaled 56,Al Rayyan Municipality,2021,21077
+56,Fereej Al Asiri - New Fereej Al Khulaifat - Bu Samra - Al Maamoura - Bu Hamour - Mesaimeer - Ain Khaled 56,Al Rayyan Municipality,2022,27711
+56,Fereej Al Asiri - New Fereej Al Khulaifat - Bu Samra - Al Maamoura - Bu Hamour - Mesaimeer - Ain Khaled 56,Al Rayyan Municipality,2023,25796
+56,Fereej Al Asiri - New Fereej Al Khulaifat - Bu Samra - Al Maamoura - Bu Hamour - Mesaimeer - Ain Khaled 56,Al Rayyan Municipality,2024,27720
+56,Fereej Al Asiri - New Fereej Al Khulaifat - Bu Samra - Al Maamoura - Bu Hamour - Mesaimeer - Ain Khaled 56,Al Rayyan Municipality,2025,4350
+57,Industrial Area 57,Doha Municipality,2020,14969
+57,Industrial Area 57,Doha Municipality,2021,16477
+57,Industrial Area 57,Doha Municipality,2022,14416
+57,Industrial Area 57,Doha Municipality,2023,12386
+57,Industrial Area 57,Doha Municipality,2024,11403
+57,Industrial Area 57,Doha Municipality,2025,1611
+58,Wholesale Market 58,Doha Municipality,2020,2241
+58,Wholesale Market 58,Doha Municipality,2021,4385
+58,Wholesale Market 58,Doha Municipality,2022,3974
+58,Wholesale Market 58,Doha Municipality,2023,4606
+58,Wholesale Market 58,Doha Municipality,2024,4287
+58,Wholesale Market 58,Doha Municipality,2025,738
+60,Zone 60,Doha Municipality,2020,1191
+60,Zone 60,Doha Municipality,2021,2033
+60,Zone 60,Doha Municipality,2022,2563
+60,Zone 60,Doha Municipality,2023,2074
+60,Zone 60,Doha Municipality,2024,2041
+60,Zone 60,Doha Municipality,2025,312
+61,Al Dafna - Al Qassar 61,Doha Municipality,2020,1472
+61,Al Dafna - Al Qassar 61,Doha Municipality,2021,2419
+61,Al Dafna - Al Qassar 61,Doha Municipality,2022,2889
+61,Al Dafna - Al Qassar 61,Doha Municipality,2023,2732
+61,Al Dafna - Al Qassar 61,Doha Municipality,2024,2934
+61,Al Dafna - Al Qassar 61,Doha Municipality,2025,543
+62,Zone 62,Doha Municipality,2020,316
+62,Zone 62,Doha Municipality,2021,423
+62,Zone 62,Doha Municipality,2022,428
+62,Zone 62,Doha Municipality,2023,439
+62,Zone 62,Doha Municipality,2024,508
+62,Zone 62,Doha Municipality,2025,92
+63,Onaiza 63,Doha Municipality,2020,1085
+63,Onaiza 63,Doha Municipality,2021,1644
+63,Onaiza 63,Doha Municipality,2022,1945
+63,Onaiza 63,Doha Municipality,2023,1953
+63,Onaiza 63,Doha Municipality,2024,2082
+63,Onaiza 63,Doha Municipality,2025,342
+64,Lejbailat 64,Doha Municipality,2020,342
+64,Lejbailat 64,Doha Municipality,2021,517
+64,Lejbailat 64,Doha Municipality,2022,579
+64,Lejbailat 64,Doha Municipality,2023,479
+64,Lejbailat 64,Doha Municipality,2024,569
+64,Lejbailat 64,Doha Municipality,2025,78
+65,Onaiza 65,Doha Municipality,2020,573
+65,Onaiza 65,Doha Municipality,2021,839
+65,Onaiza 65,Doha Municipality,2022,851
+65,Onaiza 65,Doha Municipality,2023,890
+65,Onaiza 65,Doha Municipality,2024,884
+65,Onaiza 65,Doha Municipality,2025,152
+66,Onaiza - Leqtaifiya - Al Qassar 66,Doha Municipality,2020,3750
+66,Onaiza - Leqtaifiya - Al Qassar 66,Doha Municipality,2021,5779
+66,Onaiza - Leqtaifiya - Al Qassar 66,Doha Municipality,2022,7085
+66,Onaiza - Leqtaifiya - Al Qassar 66,Doha Municipality,2023,6485
+66,Onaiza - Leqtaifiya - Al Qassar 66,Doha Municipality,2024,7331
+66,Onaiza - Leqtaifiya - Al Qassar 66,Doha Municipality,2025,1225
+67,Hazm Al Markhiya 67,Doha Municipality,2020,583
+67,Hazm Al Markhiya 67,Doha Municipality,2021,956
+67,Hazm Al Markhiya 67,Doha Municipality,2022,1105
+67,Hazm Al Markhiya 67,Doha Municipality,2023,1120
+67,Hazm Al Markhiya 67,Doha Municipality,2024,1160
+67,Hazm Al Markhiya 67,Doha Municipality,2025,187
+68,Jelaiah - Al Tarfa - Jeryan Nejaima 68,Doha Municipality,2020,656
+68,Jelaiah - Al Tarfa - Jeryan Nejaima 68,Doha Municipality,2021,1115
+68,Jelaiah - Al Tarfa - Jeryan Nejaima 68,Doha Municipality,2022,1781
+68,Jelaiah - Al Tarfa - Jeryan Nejaima 68,Doha Municipality,2023,1867
+68,Jelaiah - Al Tarfa - Jeryan Nejaima 68,Doha Municipality,2024,2434
+68,Jelaiah - Al Tarfa - Jeryan Nejaima 68,Doha Municipality,2025,629
+69,Jabal Thuaileb - Al Kharayej - Lusail - Al Egla - Wadi Al Banat 69,Al Daayen Municipality,2020,1145
+69,Jabal Thuaileb - Al Kharayej - Lusail - Al Egla - Wadi Al Banat 69,Al Daayen Municipality,2021,2137
+69,Jabal Thuaileb - Al Kharayej - Lusail - Al Egla - Wadi Al Banat 69,Al Daayen Municipality,2022,3419
+69,Jabal Thuaileb - Al Kharayej - Lusail - Al Egla - Wadi Al Banat 69,Al Daayen Municipality,2023,3572
+69,Jabal Thuaileb - Al Kharayej - Lusail - Al Egla - Wadi Al Banat 69,Al Daayen Municipality,2024,3743
+69,Jabal Thuaileb - Al Kharayej - Lusail - Al Egla - Wadi Al Banat 69,Al Daayen Municipality,2025,620
+70,Leabaib - Al Ebb - Jeryan Jenaihat - Al Kheesa - Rawdat Al Hamama - Wadi Al Wasaah - Al Sakhama - Al Masrouhiya - Wadi Lusail - Lusail - Umm Garn - Al Daayen 70,Al Daayen Municipality,2020,5104
+70,Leabaib - Al Ebb - Jeryan Jenaihat - Al Kheesa - Rawdat Al Hamama - Wadi Al Wasaah - Al Sakhama - Al Masrouhiya - Wadi Lusail - Lusail - Umm Garn - Al Daayen 70,Al Daayen Municipality,2021,7740
+70,Leabaib - Al Ebb - Jeryan Jenaihat - Al Kheesa - Rawdat Al Hamama - Wadi Al Wasaah - Al Sakhama - Al Masrouhiya - Wadi Lusail - Lusail - Umm Garn - Al Daayen 70,Al Daayen Municipality,2022,9085
+70,Leabaib - Al Ebb - Jeryan Jenaihat - Al Kheesa - Rawdat Al Hamama - Wadi Al Wasaah - Al Sakhama - Al Masrouhiya - Wadi Lusail - Lusail - Umm Garn - Al Daayen 70,Al Daayen Municipality,2023,8475
+70,Leabaib - Al Ebb - Jeryan Jenaihat - Al Kheesa - Rawdat Al Hamama - Wadi Al Wasaah - Al Sakhama - Al Masrouhiya - Wadi Lusail - Lusail - Umm Garn - Al Daayen 70,Al Daayen Municipality,2024,8654
+70,Leabaib - Al Ebb - Jeryan Jenaihat - Al Kheesa - Rawdat Al Hamama - Wadi Al Wasaah - Al Sakhama - Al Masrouhiya - Wadi Lusail - Lusail - Umm Garn - Al Daayen 70,Al Daayen Municipality,2025,1433
+71,Al Kharaitiyat - Izghawa - Umm Slal Mohammed - Bu Fesseela - Umm Slal Ali - Umm Al Amad - Umm Obairiya - Lekhshaina - Sunay Lehmaidi 71,Umm Slal Municipality,2020,7099
+71,Al Kharaitiyat - Izghawa - Umm Slal Mohammed - Bu Fesseela - Umm Slal Ali - Umm Al Amad - Umm Obairiya - Lekhshaina - Sunay Lehmaidi 71,Umm Slal Municipality,2021,9991
+71,Al Kharaitiyat - Izghawa - Umm Slal Mohammed - Bu Fesseela - Umm Slal Ali - Umm Al Amad - Umm Obairiya - Lekhshaina - Sunay Lehmaidi 71,Umm Slal Municipality,2022,11734
+71,Al Kharaitiyat - Izghawa - Umm Slal Mohammed - Bu Fesseela - Umm Slal Ali - Umm Al Amad - Umm Obairiya - Lekhshaina - Sunay Lehmaidi 71,Umm Slal Municipality,2023,11875
+71,Al Kharaitiyat - Izghawa - Umm Slal Mohammed - Bu Fesseela - Umm Slal Ali - Umm Al Amad - Umm Obairiya - Lekhshaina - Sunay Lehmaidi 71,Umm Slal Municipality,2024,12011
+71,Al Kharaitiyat - Izghawa - Umm Slal Mohammed - Bu Fesseela - Umm Slal Ali - Umm Al Amad - Umm Obairiya - Lekhshaina - Sunay Lehmaidi 71,Umm Slal Municipality,2025,1785
+72,Al Utouriya 72,Al Sheehaniya Municipality,2020,131
+72,Al Utouriya 72,Al Sheehaniya Municipality,2021,146
+72,Al Utouriya 72,Al Sheehaniya Municipality,2022,140
+72,Al Utouriya 72,Al Sheehaniya Municipality,2023,138
+72,Al Utouriya 72,Al Sheehaniya Municipality,2024,186
+72,Al Utouriya 72,Al Sheehaniya Municipality,2025,25
+73,Lijmiliya 73,Al Sheehaniya Municipality,2020,108
+73,Lijmiliya 73,Al Sheehaniya Municipality,2021,103
+73,Lijmiliya 73,Al Sheehaniya Municipality,2022,79
+73,Lijmiliya 73,Al Sheehaniya Municipality,2023,118
+73,Lijmiliya 73,Al Sheehaniya Municipality,2024,88
+73,Lijmiliya 73,Al Sheehaniya Municipality,2025,22
+74,Simaisma - Al Jeryan - Al Khor 74,Al Khor and Al Thakhira Municipality,2020,4700
+74,Simaisma - Al Jeryan - Al Khor 74,Al Khor and Al Thakhira Municipality,2021,5420
+74,Simaisma - Al Jeryan - Al Khor 74,Al Khor and Al Thakhira Municipality,2022,6338
+74,Simaisma - Al Jeryan - Al Khor 74,Al Khor and Al Thakhira Municipality,2023,5824
+74,Simaisma - Al Jeryan - Al Khor 74,Al Khor and Al Thakhira Municipality,2024,6335
+74,Simaisma - Al Jeryan - Al Khor 74,Al Khor and Al Thakhira Municipality,2025,931
+75,Al Thakhira-Rass Laffan-Umm Birka 75,Al Khor and Al Thakhira Municipality,2020,585
+75,Al Thakhira-Rass Laffan-Umm Birka 75,Al Khor and Al Thakhira Municipality,2021,698
+75,Al Thakhira-Rass Laffan-Umm Birka 75,Al Khor and Al Thakhira Municipality,2022,1030
+75,Al Thakhira-Rass Laffan-Umm Birka 75,Al Khor and Al Thakhira Municipality,2023,1337
+75,Al Thakhira-Rass Laffan-Umm Birka 75,Al Khor and Al Thakhira Municipality,2024,1549
+75,Al Thakhira-Rass Laffan-Umm Birka 75,Al Khor and Al Thakhira Municipality,2025,285
+76,Al Ghuwairiya 76,Al Khor and Al Thakhira Municipality,2020,121
+76,Al Ghuwairiya 76,Al Khor and Al Thakhira Municipality,2021,118
+76,Al Ghuwairiya 76,Al Khor and Al Thakhira Municipality,2022,145
+76,Al Ghuwairiya 76,Al Khor and Al Thakhira Municipality,2023,140
+76,Al Ghuwairiya 76,Al Khor and Al Thakhira Municipality,2024,195
+76,Al Ghuwairiya 76,Al Khor and Al Thakhira Municipality,2025,22
+77,Fuwairit-Ain Sinan-Madinat Al Kaaban 77,Al Shamal Municipality,2020,78
+77,Fuwairit-Ain Sinan-Madinat Al Kaaban 77,Al Shamal Municipality,2021,102
+77,Fuwairit-Ain Sinan-Madinat Al Kaaban 77,Al Shamal Municipality,2022,90
+77,Fuwairit-Ain Sinan-Madinat Al Kaaban 77,Al Shamal Municipality,2023,101
+77,Fuwairit-Ain Sinan-Madinat Al Kaaban 77,Al Shamal Municipality,2024,180
+77,Fuwairit-Ain Sinan-Madinat Al Kaaban 77,Al Shamal Municipality,2025,17
+78,Abu Dhalouf-Al Zubara 78,Al Shamal Municipality,2020,71
+78,Abu Dhalouf-Al Zubara 78,Al Shamal Municipality,2021,69
+78,Abu Dhalouf-Al Zubara 78,Al Shamal Municipality,2022,63
+78,Abu Dhalouf-Al Zubara 78,Al Shamal Municipality,2023,68
+78,Abu Dhalouf-Al Zubara 78,Al Shamal Municipality,2024,128
+78,Abu Dhalouf-Al Zubara 78,Al Shamal Municipality,2025,10
+79,Al Ruwais-Al Shamal 79,Al Shamal Municipality,2020,599
+79,Al Ruwais-Al Shamal 79,Al Shamal Municipality,2021,771
+79,Al Ruwais-Al Shamal 79,Al Shamal Municipality,2022,623
+79,Al Ruwais-Al Shamal 79,Al Shamal Municipality,2023,596
+79,Al Ruwais-Al Shamal 79,Al Shamal Municipality,2024,774
+79,Al Ruwais-Al Shamal 79,Al Shamal Municipality,2025,105
+80,Al Sheehaniya 80,Al Sheehaniya Municipality,2020,2853
+80,Al Sheehaniya 80,Al Sheehaniya Municipality,2021,4084
+80,Al Sheehaniya 80,Al Sheehaniya Municipality,2022,4199
+80,Al Sheehaniya 80,Al Sheehaniya Municipality,2023,3588
+80,Al Sheehaniya 80,Al Sheehaniya Municipality,2024,3676
+80,Al Sheehaniya 80,Al Sheehaniya Municipality,2025,536
+81,Mebaireek 81,Al Rayyan Municipality,2020,1376
+81,Mebaireek 81,Al Rayyan Municipality,2021,2233
+81,Mebaireek 81,Al Rayyan Municipality,2022,2442
+81,Mebaireek 81,Al Rayyan Municipality,2023,2231
+81,Mebaireek 81,Al Rayyan Municipality,2024,2422
+81,Mebaireek 81,Al Rayyan Municipality,2025,356
+82,Rawdat Rashed 82,Al Sheehaniya Municipality,2020,829
+82,Rawdat Rashed 82,Al Sheehaniya Municipality,2021,1099
+82,Rawdat Rashed 82,Al Sheehaniya Municipality,2022,1235
+82,Rawdat Rashed 82,Al Sheehaniya Municipality,2023,1108
+82,Rawdat Rashed 82,Al Sheehaniya Municipality,2024,989
+82,Rawdat Rashed 82,Al Sheehaniya Municipality,2025,178
+83,Al Karaana 83,Al Rayyan Municipality,2020,336
+83,Al Karaana 83,Al Rayyan Municipality,2021,465
+83,Al Karaana 83,Al Rayyan Municipality,2022,656
+83,Al Karaana 83,Al Rayyan Municipality,2023,368
+83,Al Karaana 83,Al Rayyan Municipality,2024,317
+83,Al Karaana 83,Al Rayyan Municipality,2025,46
+84,Umm Bab 84,Al Sheehaniya Municipality,2020,213
+84,Umm Bab 84,Al Sheehaniya Municipality,2021,318
+84,Umm Bab 84,Al Sheehaniya Municipality,2022,352
+84,Umm Bab 84,Al Sheehaniya Municipality,2023,179
+84,Umm Bab 84,Al Sheehaniya Municipality,2024,167
+84,Umm Bab 84,Al Sheehaniya Municipality,2025,16
+85,Al Nasraniya 85,Al Sheehaniya Municipality,2020,103
+85,Al Nasraniya 85,Al Sheehaniya Municipality,2021,97
+85,Al Nasraniya 85,Al Sheehaniya Municipality,2022,106
+85,Al Nasraniya 85,Al Sheehaniya Municipality,2023,80
+85,Al Nasraniya 85,Al Sheehaniya Municipality,2024,114
+85,Al Nasraniya 85,Al Sheehaniya Municipality,2025,31
+86,Dukhan 86,Al Sheehaniya Municipality,2020,321
+86,Dukhan 86,Al Sheehaniya Municipality,2021,424
+86,Dukhan 86,Al Sheehaniya Municipality,2022,484
+86,Dukhan 86,Al Sheehaniya Municipality,2023,387
+86,Dukhan 86,Al Sheehaniya Municipality,2024,301
+86,Dukhan 86,Al Sheehaniya Municipality,2025,50
+90,Al Wakra 90,Al Wakra Municipality,2020,6562
+90,Al Wakra 90,Al Wakra Municipality,2021,9630
+90,Al Wakra 90,Al Wakra Municipality,2022,9938
+90,Al Wakra 90,Al Wakra Municipality,2023,9227
+90,Al Wakra 90,Al Wakra Municipality,2024,10204
+90,Al Wakra 90,Al Wakra Municipality,2025,1436
+91,Al Thumama - Al Wukair-Al Mashaf 91,Al Wakra Municipality,2020,3357
+91,Al Thumama - Al Wukair-Al Mashaf 91,Al Wakra Municipality,2021,5535
+91,Al Thumama - Al Wukair-Al Mashaf 91,Al Wakra Municipality,2022,6528
+91,Al Thumama - Al Wukair-Al Mashaf 91,Al Wakra Municipality,2023,6966
+91,Al Thumama - Al Wukair-Al Mashaf 91,Al Wakra Municipality,2024,8054
+91,Al Thumama - Al Wukair-Al Mashaf 91,Al Wakra Municipality,2025,1362
+92,Mesaieed 92,Al Wakra Municipality,2020,1174
+92,Mesaieed 92,Al Wakra Municipality,2021,1414
+92,Mesaieed 92,Al Wakra Municipality,2022,1481
+92,Mesaieed 92,Al Wakra Municipality,2023,1274
+92,Mesaieed 92,Al Wakra Municipality,2024,1149
+92,Mesaieed 92,Al Wakra Municipality,2025,206
+93,Mesaieed Industrial Area 93,Al Wakra Municipality,2020,310
+93,Mesaieed Industrial Area 93,Al Wakra Municipality,2021,488
+93,Mesaieed Industrial Area 93,Al Wakra Municipality,2022,497
+93,Mesaieed Industrial Area 93,Al Wakra Municipality,2023,436
+93,Mesaieed Industrial Area 93,Al Wakra Municipality,2024,518
+93,Mesaieed Industrial Area 93,Al Wakra Municipality,2025,136
+94,Shagra 94,Al Wakra Municipality,2020,429
+94,Shagra 94,Al Wakra Municipality,2021,522
+94,Shagra 94,Al Wakra Municipality,2022,552
+94,Shagra 94,Al Wakra Municipality,2023,457
+94,Shagra 94,Al Wakra Municipality,2024,440
+94,Shagra 94,Al Wakra Municipality,2025,129
+95,Al Kharrara 95,Al Wakra Municipality,2020,78
+95,Al Kharrara 95,Al Wakra Municipality,2021,99
+95,Al Kharrara 95,Al Wakra Municipality,2022,84
+95,Al Kharrara 95,Al Wakra Municipality,2023,63
+95,Al Kharrara 95,Al Wakra Municipality,2024,67
+95,Al Kharrara 95,Al Wakra Municipality,2025,13
+96,Abu Samra 96,Al Rayyan Municipality,2020,186
+96,Abu Samra 96,Al Rayyan Municipality,2021,260
+96,Abu Samra 96,Al Rayyan Municipality,2022,559
+96,Abu Samra 96,Al Rayyan Municipality,2023,570
+96,Abu Samra 96,Al Rayyan Municipality,2024,689
+96,Abu Samra 96,Al Rayyan Municipality,2025,112
+97,Sawda Natheel 97,Al Rayyan Municipality,2020,1
+97,Sawda Natheel 97,Al Rayyan Municipality,2021,6
+97,Sawda Natheel 97,Al Rayyan Municipality,2022,2
+97,Sawda Natheel 97,Al Rayyan Municipality,2023,9
+97,Sawda Natheel 97,Al Rayyan Municipality,2024,173
+97,Sawda Natheel 97,Al Rayyan Municipality,2025,52
+98,Al Adaid 98,Al Wakra Municipality,2020,36
+98,Al Adaid 98,Al Wakra Municipality,2021,53
+98,Al Adaid 98,Al Wakra Municipality,2022,41
+98,Al Adaid 98,Al Wakra Municipality,2023,28
+98,Al Adaid 98,Al Wakra Municipality,2024,39
+98,Al Adaid 98,Al Wakra Municipality,2025,4
+99,99,Al Shamal Municipality,2021,1
+99,99,Al Shamal Municipality,2022,1
+99,99,Al Shamal Municipality,2023,2

@@ -1,0 +1,14 @@
+,,,Description,Notes
+,Attendance and participation,10,,
+,In-class labs,20,,
+Lab 1,Under the Hood — read one annotated Observable Plot example of Doha weather API ,5,,"* Merge Lab 0, 2 into one Lab, hands-on on Github Demonstration, and Demonstration of Obserservable. Real-time API examples of Doha Weather API data
+* Add vercel dashboard "
+Lab 2,Tableau and Integration in Observable Dashboard (Adjusted to Qatar Campus),5,,Reference Pittsburgh
+Lab 3,Maps Tell Stories: ArcGIS Online + StoryMaps (live air quality; embed Tableau),5,,Reference Pittsburgh
+Lab 4,Directing AI to Build (and Not Lie With) Charts — starter.html + GitHub Pages,5,"* To develop studetns own tastes for design visualization
+* Learn how to push back on AI suggestiion, using your own judgement and taste, but using AI as an assistant",TBD. Peidi will look into this on how to impement this
+,Project,70,,
+Project 1,Learning to See: Visualization Critique & Taste,20,Unchanged content from 67-336 P1,
+Project 2,Qatar in Data: a Tableau story with ≥3 interactive views + 300–500-word reflection,20,Adapted from Project 3 (Pittsburgh police → Qatar open-data menu),Individual. Teams may extend one member's P2 topic in the final.
+Final Project,"Local Hazard StoryMap: one Qatar hazard, seven fixed sections, Tableau/Lab C chart embedded, ""whose story"" paragraph (plan 3 · beta + critique 5 · final StoryMap + reflection 18 · gallery talk 4)",30,,Possibaly replace  Team work Project 3 with Final Project
+,Total,100,,

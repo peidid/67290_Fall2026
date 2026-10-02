@@ -1,0 +1,14 @@
+import("https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js");
+
+html`<style>
+  tableau-viz {
+    width: 100%;
+    height: 800px;
+  }
+</style>`
+
+html`<tableau-viz
+  src="YOUR_TABLEAU_URL"
+  width="100%"
+  height="800px">
+</tableau-viz>`

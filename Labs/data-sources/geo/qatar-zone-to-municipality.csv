@@ -1,0 +1,92 @@
+﻿zone,zone_name,municipality,adm2_pcode
+1,Al Jasra 01,Doha Municipality,QAT006001
+2,Al Bidda 02,Doha Municipality,QAT006002
+3,Fereej Mohammed Bin Jasim - Mushaireb 03,Doha Municipality,QAT006003
+4,Mushaireb 04,Doha Municipality,QAT006004
+5,Al Najada - Brahat Al Jufairy - Fereej Al Asmakh 05,Doha Municipality,QAT006005
+6,Old Al Ghanim 06,Doha Municipality,QAT006006
+7,Al Souq 07,Doha Municipality,QAT006007
+12,Al Bidda 12,Doha Municipality,QAT006012
+13,Mushaireb 13,Doha Municipality,QAT006013
+14,Fereej Abdel Aziz 14,Doha Municipality,QAT006014
+15,Al Doha Al Jadeeda 15,Doha Municipality,QAT006015
+16,Old Al Ghanim 16,Doha Municipality,QAT006016
+17,Al Rufaa - Old Al Hitmi 17,Doha Municipality,QAT006017
+18,Slata - Al Mirqab 18,Doha Municipality,QAT006018
+19,Zone 19,Doha Municipality,QAT006019
+20,Wadi Al Sail 20,Doha Municipality,QAT006020
+21,Rumaila 21,Doha Municipality,QAT006021
+22,Fereej Bin Mahmoud 22,Doha Municipality,QAT006022
+23,Fereej Bin Mahmoud 23,Doha Municipality,QAT006023
+24,Rawdat Al Khail 24,Doha Municipality,QAT006024
+25,Al Mansoura - Fereej Bin Dirham 25,Doha Municipality,QAT006025
+26,Najma 26,Doha Municipality,QAT006026
+27,Umm Ghuwailina 27,Doha Municipality,QAT006027
+28,Al Khulaifat - Ras Bu Abboud 28,Doha Municipality,QAT006028
+29,Ras Bu Abboud 29,Doha Municipality,QAT006029
+30,Duhail 30,Doha Municipality,QAT006030
+31,Umm Lekhba 31,Doha Municipality,QAT006031
+32,Madinat Khalifa North - Dahl Al Hamam 32,Doha Municipality,QAT006032
+33,Al Markhiya 33,Doha Municipality,QAT006033
+34,Madinat Khalifa South 34,Doha Municipality,QAT006034
+35,Fereej Kulaib 35,Doha Municipality,QAT006035
+36,Al Messila 36,Doha Municipality,QAT006036
+37,Fereej Bin Omran - New Al Hitmi - Hamad Medical City 37,Doha Municipality,QAT006037
+38,Al Sadd 38,Doha Municipality,QAT006038
+39,Al Sadd - New Al Mirqab - Fereej Al Nasr 39,Doha Municipality,QAT006039
+40,New Slata 40,Doha Municipality,QAT006040
+41,Nuaija 41,Doha Municipality,QAT006041
+42,Al Hilal 42,Doha Municipality,QAT006042
+43,Nuaija 43,Doha Municipality,QAT006043
+44,Nuaija 44,Doha Municipality,QAT006044
+45,Old Airport 45,Doha Municipality,QAT006045
+46,Al Thumama 46,Doha Municipality,QAT006046
+47,Al Thumama 47,Doha Municipality,QAT006047
+48,Doha International Airport 48,Doha Municipality,QAT006048
+49,Hamad International Airport - Banana Island - Ras Bu Funtas 49,Doha Municipality,QAT006049
+50,Al Thumama 50,Doha Municipality,QAT006050
+51,Al Gharrafa - Gharrafat Al Rayyan - Izghawa - Bani Hajer - Al Seej - Rawdat Egdaim - Al Themaid 51,Al Rayyan Municipality,QAT003051
+52,Al Luqta - Lebday - Old Al Rayyan - Al Shagub - Fereej Al Zaeem 52,Al Rayyan Municipality,QAT003052
+53,New Al Rayyan - Al Wajba - Muaither 53,Al Rayyan Municipality,QAT003053
+54,Fereej Al Amir - Luaib - Muraikh - Baaya - Mehairja - Fereej Al Soudan 54,Al Rayyan Municipality,QAT003054
+55,Fereej Al Soudan - Al Waab - Al Aziziya - New Fereej Al Ghanim - Fereej Al Murra - Fereej Al Manaseer - Bu Sidra - Muaither - Al Sailiya - Al Mearad 55,Al Rayyan Municipality,QAT003055
+56,Fereej Al Asiri - New Fereej Al Khulaifat - Bu Samra - Al Maamoura - Bu Hamour - Mesaimeer - Ain Khaled 56,Al Rayyan Municipality,QAT003056
+57,Industrial Area 57,Doha Municipality,QAT006057
+58,Wholesale Market 58,Doha Municipality,QAT006058
+60,Zone 60,Doha Municipality,QAT006060
+61,Al Dafna - Al Qassar 61,Doha Municipality,QAT006061
+62,Zone 62,Doha Municipality,QAT006062
+63,Onaiza 63,Doha Municipality,QAT006063
+64,Lejbailat 64,Doha Municipality,QAT006064
+65,Onaiza 65,Doha Municipality,QAT006065
+66,Onaiza - Leqtaifiya - Al Qassar 66,Doha Municipality,QAT006066
+67,Hazm Al Markhiya 67,Doha Municipality,QAT006067
+68,Jelaiah - Al Tarfa - Jeryan Nejaima 68,Doha Municipality,QAT006068
+69,Jabal Thuaileb - Al Kharayej - Lusail - Al Egla - Wadi Al Banat 69,Al Daayen Municipality,QAT001069
+70,Leabaib - Al Ebb - Jeryan Jenaihat - Al Kheesa - Rawdat Al Hamama - Wadi Al Wasaah - Al Sakhama - Al Masrouhiya - Wadi Lusail - Lusail - Umm Garn - Al Daayen 70,Al Daayen Municipality,QAT001070
+71,Al Kharaitiyat - Izghawa - Umm Slal Mohammed - Bu Fesseela - Umm Slal Ali - Umm Al Amad - Umm Obairiya - Lekhshaina - Sunay Lehmaidi 71,Umm Slal Municipality,QAT007071
+72,Al Utouriya 72,Al Sheehaniya Municipality,QAT008072
+73,Lijmiliya 73,Al Sheehaniya Municipality,QAT008073
+74,Simaisma - Al Jeryan - Al Khor 74,Al Khor and Al Thakhira Municipality,QAT002074
+75,Al Thakhira-Rass Laffan-Umm Birka 75,Al Khor and Al Thakhira Municipality,QAT002075
+76,Al Ghuwairiya 76,Al Khor and Al Thakhira Municipality,QAT002076
+77,Fuwairit-Ain Sinan-Madinat Al Kaaban 77,Al Shamal Municipality,QAT004077
+78,Abu Dhalouf-Al Zubara 78,Al Shamal Municipality,QAT004078
+79,Al Ruwais-Al Shamal 79,Al Shamal Municipality,QAT004079
+80,Al Sheehaniya 80,Al Sheehaniya Municipality,QAT008080
+81,Mebaireek 81,Al Rayyan Municipality,QAT003081
+82,Rawdat Rashed 82,Al Sheehaniya Municipality,QAT008082
+83,Al Karaana 83,Al Rayyan Municipality,QAT003083
+84,Umm Bab 84,Al Sheehaniya Municipality,QAT008084
+85,Al Nasraniya 85,Al Sheehaniya Municipality,QAT008085
+86,Dukhan 86,Al Sheehaniya Municipality,QAT008086
+90,Al Wakra 90,Al Wakra Municipality,QAT005090
+91,Al Thumama - Al Wukair-Al Mashaf 91,Al Wakra Municipality,QAT005091
+92,Mesaieed 92,Al Wakra Municipality,QAT005092
+93,Mesaieed Industrial Area 93,Al Wakra Municipality,QAT005093
+94,Shagra 94,Al Wakra Municipality,QAT005094
+95,Al Kharrara 95,Al Wakra Municipality,QAT005095
+96,Abu Samra 96,Al Rayyan Municipality,QAT003096
+97,Sawda Natheel 97,Al Rayyan Municipality,QAT003097
+98,Al Adaid 98,Al Wakra Municipality,QAT005098
+99,99,Al Shamal Municipality,QAT004099
