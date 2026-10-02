@@ -7,6 +7,23 @@ availability was checked against Tableau's own web-authoring documentation, not 
 
 ---
 
+## What correct looks like
+
+![Expected views](expected-views.png)
+
+*Rendered directly from `data/qatar-hotel-performance-2014-2025.xlsx` — every value above is in the file. A
+student's Tableau screen will differ in styling (Tableau's own fonts, default blue, its tooltips) but the
+**shapes and the numbers must match**.*
+
+And the chart every student builds in Part 1, before they filter:
+
+![The wrong chart](part1-the-wrong-chart.png)
+
+> **This is the fastest way to grade.** If a student's bar chart still has seven bars, or any total near
+> 141 million, the `segment_type` filter is missing and everything downstream is doubled.
+
+---
+
 ## What a finished student has
 
 1. **A published Tableau Public viz** at a working URL — a dashboard or a story, built from
@@ -57,6 +74,12 @@ missing. The truth is 70,726,032.
 | 72–85 | The mess | Museum file: type fix · two kinds of missing · group the spellings | **Cut this first** if behind |
 | 85–90 | Submit · P2 handoff | Canvas · dataset sign-up | No |
 
+> ### ⚠️ Three independent reviewers re-budgeted this at beginner pace and all three said 90 minutes is optimistic
+> Their estimates landed between **110 and 130 minutes** for the full nine parts. Every novel drag costs a
+> beginner 45–90 seconds, every modal dialog about a minute, and the class runs *after* a 90-minute morning
+> lecture and a lunch break. **Plan to finish at Part 7 and hand Part 8 out as a take-home.** The run sheet is
+> ordered so that costs you nothing load-bearing. Do not try to rescue Part 8 by compressing Parts 5–7.
+
 **The ordering is deliberate.** Publishing and verifying interactivity is what Project 2 is graded on, so it sits
 *before* the defect drill. If the room runs 15 minutes slow, Part 8 becomes a take-home and nothing load-bearing
 is lost.
@@ -73,7 +96,7 @@ is lost.
 
 | | |
 |---|---|
-| ☐ | **Send `PRE-CLASS.md` by Monday 26 October.** The Tableau account requirement currently appears only in TA-facing notes and reaches no student. One Canvas post, one deadline. |
+| ☐ | **Post the pre-class task on Canvas by Monday 26 October** — it is the *"Before you walk in"* section at the top of [`../Lab2-Tableau.ipynb`](../Lab2-Tableau.ipynb). Paste it into an announcement; do not assume students open the notebook a week early. The Tableau account requirement otherwise lives only in TA-facing notes and reaches no student. |
 | ☐ | **Collect Tableau Public usernames** on Canvas so failed signups surface on the Monday, not the Saturday. |
 | ☐ | **Ask what laptop and OS each student is bringing.** You are looking for the iPad-only student — they cannot author at all and need a loaner. |
 | ☐ | **Make 2–3 spare Tableau Public accounts.** Someone will arrive without one. |
@@ -93,6 +116,8 @@ and hierarchies · upload `.xlsx`.
 |---|---|
 | Accepted uploads | `.xlsx`, `.csv`, `.tsv` only, 1 GB max. **No GeoJSON** — spatial files need Desktop Public Edition. |
 | Saving | **File → Save publishes.** No local save in the browser. |
+| **Filter cards** | **Automatic.** *"In web authoring, interactive filters are automatically added to the view when you drag a field to the Filters shelf."* There is no *Show Filter* step — the browser-specific skill is **hiding** cards you do not want published. |
+| **Getting the link** | *"display a view, and then click **Share at the bottom of the view**."* The editor's address bar holds an **`/authoring/`** URL that reopens the editor and proves nothing. |
 | Mobile | **Authoring on any mobile device is unsupported.** Chromebook is fine; iPad is not. |
 | Qatar geocoding | Airport (2), City (5), Municipality-as-State/Province (7). **No geocoding for the 91 zones**, no postcodes. |
 | Eastern-Arabic numerals | Import as text and **cannot** be coerced. Neither lab file contains any — verified. |
@@ -110,7 +135,9 @@ Lab 3 is an entire ArcGIS mapping lab nine days later. Maps belong there.
 | Four fat bars, not a time line | Blue discrete `YEAR(month)` | Pill → **Month** from the lower green block |
 | Impossible prices | Default `SUM` on a ratio | Pill → Measure → Average |
 | Right-click does nothing | Browser context menu | Use the **▾** on the pill's right edge |
-| Filters absent on the published link | Dragged to Filters, never **Show Filter** | Add it, Save As again |
+| Link reopens the editor | Copied an `/authoring/` URL from the address bar | Leave the editor → published view → **Share** → Copy Link |
+| Unexplained panel on the right | The browser auto-adds a card for every filter | Expected. Hide via card **▾** → untick Show Filter |
+| A grader can break the chart | `segment_type` card left visible and switched to `Hotel segment` | Hide that card before the final Save |
 | Can't save anything | Email never confirmed | Spare account |
 | `number` under Dimensions | 95 text cells in a numeric column | **Abc** icon → Number (whole) |
 | Student on an iPad | Unsupported by Tableau | Loaner laptop |
@@ -127,3 +154,24 @@ Lab 3 is an entire ArcGIS mapping lab nine days later. Maps belong there.
    0–3 rather than 1–4. The CSVs need renumbering to match the folders.
 3. **Museum file on the Project 2 menu.** It is dataset #7. The lab uses it for a defect drill only and never
    builds its story, so it can stay — but the menu entry should say the `number` column was fixed in class.
+
+
+---
+
+## Post-review corrections (2 October)
+
+An independent 14-agent design review re-derived every figure from the files and checked every interaction
+against Tableau's own documentation. It confirmed all the data work and found four errors in the first draft of
+this lab, **all now fixed**:
+
+| Found | Status |
+|---|---|
+| The lab said *"right-click → Show Filter"*. In **browser** web authoring, filter cards are added **automatically**; that menu step is Desktop idiom and would have had 25 students hunting for an item that is not offered — in the one block declared uncuttable. | Fixed. Part 5 is rewritten around *tuning and hiding* cards, which is the genuine browser skill. |
+| The lab said to copy the URL **from the address bar**. That is an `/authoring/` link that reopens the editor for the author only. | Fixed. Part 7 now routes through the published view → **Share** → Copy Link. |
+| The lab filtered on the **`year`** column. It is stored as a whole number, so Tableau files it under *Measures* and gives a slider, not a tick-list. | Fixed. Part 5 filters on `month` → Years, and uses the mistake to re-teach the type lesson. |
+| The lab said dragging `month` gives *"four fat bars"*. The file spans 2014–2025, so it gives **twelve**. | Fixed. |
+
+It also surfaced three data facts now documented in [`../data/PROVENANCE.md`](../data/PROVENANCE.md):
+**the total does not reconcile with its parts** (zero of 135 months match; −0.108% to +1.513%), **three rows have
+occupancy above 100%** (all 1&2 Star: 100.3, 102.0, 102.8), and **2025 holds only Jan–Mar**, so any SUM-by-year
+chart shows a fake 75% cliff that is really 3 months against 12.

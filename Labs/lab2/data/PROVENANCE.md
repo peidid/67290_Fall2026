@@ -29,6 +29,11 @@ full upstream record.
 
 This is not a defect to fix. It is Part 1 of the lab.
 
+**And the total does not reconcile with its parts.** It is published separately, not computed. Summing the six
+components gives a figure **0.43% larger** overall; month by month the gap runs **−0.108% to +1.513%**, and
+**zero of 135 months match exactly**. Never tell students the total equals the sum, and do not invite them to
+verify it — a sharp student will check, and they will be right that it fails.
+
 ### Figures quoted in the notebook, all recomputed from this file
 
 | | Oct 2022 | Nov 2022 | Dec 2022 | Jan 2023 |

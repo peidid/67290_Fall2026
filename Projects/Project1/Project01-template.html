@@ -1,18 +1,20 @@
 <!DOCTYPE HTML>
 <html xml:lang="en" lang="en">
 <head>
-  <title>67-336 Project 1</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>67-290 Project 1: Learning to See</title>
   <style>
 
 *{ /* Universal selector */
-  padding: 0; margin: 0; 
+  padding: 0; margin: 0;
 }
 
 body {
   margin: 0 auto 0 auto;
   padding: 0;
   background-color: #33333f;
-  width: 840px;
+  max-width: 840px;
   font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
   font-size: 0.95em;
 }
@@ -22,7 +24,7 @@ a:hover { text-decoration: underline; color: #f4b014; }
 img, a.img, a:hover.img { border: none; }
 
 img {
-  max-width: 800px;
+  max-width: 100%;
 }
 
 h1, h2, h3, h4, h5 {
@@ -47,9 +49,6 @@ ol { margin: 1em; }
   margin: 0;
   padding: 15px 20px;
   background-color: #ffffff;
-}
-
-.article {
   line-height: 1.5em;
 }
 
@@ -58,6 +57,11 @@ ol { margin: 1em; }
   padding-top: 2px;
   margin-top: 3em;
 }
+
+.source {
+  color: #555555;
+  font-size: 0.9em;
+}
   </style>
 </head>
 
@@ -65,67 +69,86 @@ ol { margin: 1em; }
 <div class='content'>
 
 <section>
-  <h1>Project 1: Learning to See - A Visualization Critique</h1>
+  <h1>Project 1: Learning to See — Visualization Critique &amp; Taste</h1>
 
-  <!-- fill in this part with your information -->
+  <!-- Fill in your name and Andrew ID. -->
   <p>
-    <strong>Your Name</strong> &nbsp;
-    <body>(Andrew ID)</body>
+    <strong>[REPLACE: Your Name]</strong> &nbsp;
+    <span>([REPLACE: Andrew ID])</span>
   </p>
 </section>
 
 <section>
-   <!-- replace "Enter your answer here." with your description and topic. -->
-  <h2>Describe selected social issues and your choice of visualizations</h2>
-  <p> Enter your answer here.</p>
-  <h2> Visualizations and your critiques</h2>
+  <h2>Your social issue</h2>
+  <!-- Task 1 + Task 3: about 100–150 words. -->
+  <p>[REPLACE: About 100–150 words. What is the issue, where, and who is affected? Why does it matter? Be specific: "vaccination rates by community", not just "health".]</p>
+</section>
 
-
-  <div class="entry">
-    <!-- replace "IMAGE_FILENAME" with the name of your image and its type (png, jpeg, etc.). Make sure your image is in the same directory as this file. -->
-    <img src="IMAGE_FILENAME" />
-    <!-- replace "Enter visualization here." with your critique of the visualization. -->
-    <p class="caption">
-    Enter visualization here.
-    </p>
-  </div>
-  <div class="sources">
-    <!-- replace "Enter citation here." with your citation for the visualization you used. -->
-    <p class="caption">
-    Enter citations here.
-    </p>
-  </div> 
+<section>
+  <h2>Visualizations and your critiques</h2>
+  <!-- Aim for about 300–400 words per visualization, including "What it shows". -->
 
   <div class="entry">
-    <!-- replace "IMAGE_FILENAME" with the name of your image and its type (png, jpeg, etc.). Make sure your image is in the same directory as this file.-->
-    <img src="IMAGE_FILENAME" />
-     <!-- replace "Enter visualization here." with your critique of the visualization. -->
-    <p class="caption">
-    Enter visualization here.
-    </p>
+    <h3>Visualization A (the stronger one)</h3>
+    <!-- Replace IMAGE_FILENAME with your image's file name (e.g., chart-a.png). Keep the image in the same folder as this file. -->
+    <img src="IMAGE_FILENAME" alt="[REPLACE: one-sentence description of the chart]" />
+    <p class="source">Source: [REPLACE: who published it, title, date, link]</p>
+
+    <h4>What it shows</h4>
+    <p>[REPLACE: What is being represented? What are the variables (e.g., x-axis, y-axis, color)? If the chart isn't in English, translate its title, labels and legend here.]</p>
+
+    <h4>The story &amp; whose story</h4>
+    <p>[REPLACE: Who is this chart for? What story is it trying to tell, and does it succeed? Is the story stated (title, caption) or do you have to infer it? Whose experience or data is represented, and whose is missing, minimized or flattened?]</p>
+
+    <h4>Design critique</h4>
+    <!-- For each principle, point to at least one specific detail in the chart: a label, a color, an axis, the sort order, an annotation. -->
+    <p><strong>Clarity:</strong> [REPLACE]</p>
+    <p><strong>Accuracy:</strong> [REPLACE]</p>
+    <p><strong>Efficiency:</strong> [REPLACE]</p>
+    <p><strong>Context:</strong> [REPLACE]</p>
+    <p><strong>Ethics &amp; trust:</strong> [REPLACE]</p>
+
+    <h4>Verdict &amp; one improvement</h4>
+    <p>[REPLACE: Overall, does it work? Name the one change that would improve it most.]</p>
   </div>
-  <div class="sources">
-    <!-- replace "Enter citation here." with your citation for the visualization you used. -->
-    <p class="caption">
-    Enter citations here.
-    </p>
-  </div> 
 
   <div class="entry">
-    <!-- replace "IMAGE_FILENAME" with the name of your image and its type (png, jpeg, etc.). Make sure your image is in the same directory as this file. -->
-    <img src="IMAGE_FILENAME" />
-     <!-- replace "Enter visualization here." with your critique of the visualization. -->
-    <p class="caption">
-    Enter visualization here.
-    </p>
-  </div>
-  <div class="sources">
-    <!-- replace "Enter citation here." with your citation for the visualization you used. -->
-    <p class="caption">
-    Enter citations here.
-    </p>
-  </div> 
+    <h3>Visualization B (the weaker one)</h3>
+    <!-- Replace IMAGE_FILENAME with your image's file name (e.g., chart-b.png). Keep the image in the same folder as this file. -->
+    <img src="IMAGE_FILENAME" alt="[REPLACE: one-sentence description of the chart]" />
+    <p class="source">Source: [REPLACE: who published it, title, date, link]</p>
 
+    <h4>What it shows</h4>
+    <p>[REPLACE: What is being represented? What are the variables (e.g., x-axis, y-axis, color)? If the chart isn't in English, translate its title, labels and legend here.]</p>
+
+    <h4>The story &amp; whose story</h4>
+    <p>[REPLACE: Who is this chart for? What story is it trying to tell, and does it succeed? Is the story stated (title, caption) or do you have to infer it? Whose experience or data is represented, and whose is missing, minimized or flattened?]</p>
+
+    <h4>Design critique</h4>
+    <!-- For each principle, point to at least one specific detail in the chart: a label, a color, an axis, the sort order, an annotation. -->
+    <p><strong>Clarity:</strong> [REPLACE]</p>
+    <p><strong>Accuracy:</strong> [REPLACE]</p>
+    <p><strong>Efficiency:</strong> [REPLACE]</p>
+    <p><strong>Context:</strong> [REPLACE]</p>
+    <p><strong>Ethics &amp; trust:</strong> [REPLACE]</p>
+
+    <h4>Verdict &amp; one improvement</h4>
+    <p>[REPLACE: Overall, does it work? Name the one change that would improve it most.]</p>
+  </div>
+
+</section>
+
+<section>
+  <h2>AI Reflection</h2>
+  <!-- Finish your own critique above first. Then give an AI tool the chart image and your prompt. -->
+  <p><strong>Tool and date:</strong> [REPLACE: e.g., ChatGPT, 30 Oct 2026]</p>
+  <p><strong>Which visualization:</strong> [REPLACE: A or B]</p>
+  <p><strong>Prompt:</strong> [REPLACE: the exact prompt you used]</p>
+  <p><strong>AI response:</strong> [REPLACE: paste the AI's critique here, or save a screenshot in this folder and show it with an img tag like the ones above]</p>
+  <!-- About 150–200 words in total for Comparison + Reflection. The AI response doesn't count. -->
+  <p><strong>Comparison:</strong> [REPLACE: Where did the AI agree with you? What did it miss or get wrong? If it changed your mind, keep your original point and explain what changed and why.]</p>
+  <p><strong>Reflection:</strong> [REPLACE: one benefit and one limitation of using AI to evaluate data visualizations]</p>
+  <p><strong>Other AI use (if any):</strong> [REPLACE: e.g., "Used Gemini to find candidate charts" or "None"]</p>
 </section>
 
 </div>

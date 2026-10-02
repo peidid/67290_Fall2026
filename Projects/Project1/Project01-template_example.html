@@ -1,18 +1,20 @@
 <!DOCTYPE HTML>
 <html xml:lang="en" lang="en">
 <head>
-  <title>67-336 Project 1</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>67-290 Project 1: Learning to See (example)</title>
   <style>
 
 *{ /* Universal selector */
-  padding: 0; margin: 0; 
+  padding: 0; margin: 0;
 }
 
 body {
   margin: 0 auto 0 auto;
   padding: 0;
   background-color: #33333f;
-  width: 840px;
+  max-width: 840px;
   font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
   font-size: 0.95em;
 }
@@ -22,7 +24,7 @@ a:hover { text-decoration: underline; color: #f4b014; }
 img, a.img, a:hover.img { border: none; }
 
 img {
-  max-width: 800px;
+  max-width: 100%;
 }
 
 h1, h2, h3, h4, h5 {
@@ -47,9 +49,6 @@ ol { margin: 1em; }
   margin: 0;
   padding: 15px 20px;
   background-color: #ffffff;
-}
-
-.article {
   line-height: 1.5em;
 }
 
@@ -58,6 +57,23 @@ ol { margin: 1em; }
   padding-top: 2px;
   margin-top: 3em;
 }
+
+.source {
+  color: #555555;
+  font-size: 0.9em;
+}
+
+.banner {
+  background-color: #fff6dd;
+  border-left: 4px solid #f4b014;
+  padding: 10px 14px;
+  margin: 10px 0 20px 0;
+}
+
+.stub {
+  color: #777777;
+  font-style: italic;
+}
   </style>
 </head>
 
@@ -65,44 +81,87 @@ ol { margin: 1em; }
 <div class='content'>
 
 <section>
-  <h1>Project 1: Learning to See - A Visualization Critique</h1>
+  <h1>Project 1: Learning to See — Visualization Critique &amp; Taste</h1>
 
   <p>
-    <strong>Prof. Shihong</strong> &nbsp;
-    <body>(shihong)</body>
+    <strong>Example</strong> &nbsp;
+    <span>(67-290 teaching team)</span>
+  </p>
+
+  <p class="banner">
+    <strong>Partial worked example.</strong> This page shows the expected depth for <em>one</em> visualization.
+    Your project covers one issue with <strong>two</strong> visualizations (one stronger, one weaker), each with a source,
+    plus the AI Reflection. Please choose your own issue rather than reusing this one.
   </p>
 </section>
 
 <section>
-  <h2>Describe selected social issues and your choice of visualizations</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pulvinar sem id eleifend cursus. Sed purus tellus, accumsan a odio in, lacinia lacinia sem. In nisl arcu, mollis a nibh a, vehicula iaculis ipsum. Proin ac ante vel odio venenatis bibendum ac vitae lacus. Morbi id justo ullamcorper, imperdiet diam id, sollicitudin ligula. Nunc posuere sodales pulvinar. Mauris luctus dignissim eros, eu gravida dolor volutpat tempus. Sed vitae ipsum turpis. Etiam at ipsum lorem. Duis aliquet augue eu nulla varius aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-  <h2> Visualizations and your critiques</h2>
+  <h2>Your social issue</h2>
+  <p>Access to selective higher education in the United States. Over the past fifteen years, many well-known private
+  universities have admitted a shrinking share of their applicants. This shapes which universities students believe are
+  within reach and how universities compete for them. It also raises a question that admission rates alone can't answer:
+  is it getting harder to get in because places are scarcer, or because more people apply? For students applying
+  from abroad, including from Qatar, an admit rate is often the first number they see when deciding where to apply.</p>
+</section>
 
+<section>
+  <h2>Visualizations and your critiques</h2>
 
   <div class="entry">
-    <h3> Visualization #1</h3>
-    <img src="Starlink_Satellites_Launched_wsj31Aug2026.png" />
-    <p class="caption">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pulvinar sem id eleifend cursus. Sed purus tellus, accumsan a odio in, lacinia lacinia sem. In nisl arcu, mollis a nibh a, vehicula iaculis ipsum. Proin ac ante vel odio venenatis bibendum ac vitae lacus. Morbi id justo ullamcorper, imperdiet diam id, sollicitudin ligula. Nunc posuere sodales pulvinar. Mauris luctus dignissim eros, eu gravida dolor volutpat tempus. Sed vitae ipsum turpis. Etiam at ipsum lorem. Duis aliquet augue eu nulla varius aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    </p>
+    <h3>Visualization A (the stronger one)</h3>
+    <img src="Syracuse_Enrollment_WSJ_31Aug2026.png" alt="Line chart of the percentage of applicants admitted at Syracuse, BU, Northeastern and NYU, 2009 to 2024" />
+    <!-- TA: before release, fill in the article title, publication date and link below, and delete this comment. -->
+    <p class="source">Source: <em>The Wall Street Journal</em>, "[article title]", [publication date], [link].
+    Chart: "Percentage of applicants admitted". Data: U.S. National Center for Education Statistics.</p>
+
+    <h4>What it shows</h4>
+    <p>A line chart of the admit rate (the percentage of applicants offered a place) at four private universities:
+    Syracuse, Boston University (BU), Northeastern and New York University (NYU), from 2009 to 2024. Year is on the
+    x-axis, admit rate (0–80%) on the y-axis, and color identifies the university.</p>
+
+    <h4>The story &amp; whose story</h4>
+    <p>The audience is WSJ readers, including families comparing universities. Color carries the story: Syracuse, in bright teal and listed first in the legend, stays between
+    about 42% and 69%, while the other three fall from roughly 40–55% in 2009 to about 5–11% by 2024. The implied story
+    is "Syracuse did not follow its peers into extreme selectivity", but the title only names the variable, so readers
+    must infer it. This is the institutions' story. Applicants are invisible: an admit rate is a ratio, so a falling rate
+    can mean more applications rather than fewer places, and the chart shows neither number. Nor does it say who is
+    admitted, or why these three peers were chosen.</p>
+
+    <h4>Design critique</h4>
+    <p><strong>Clarity:</strong> Mostly clear: one variable, light gridlines, and a legend in the same top-to-bottom
+    order as the lines in 2009. But the light peach (Northeastern) and gray (NYU) lines run close together and cross
+    several times, so they are hard to tell apart. Labels at the line ends would fix this.</p>
+    <p><strong>Accuracy:</strong> The y-axis starts at zero and the years are evenly spaced, so the gaps between
+    universities aren't exaggerated. Rates are the right measure for comparing universities of different sizes.</p>
+    <p><strong>Efficiency:</strong> A line chart suits a trend over time across four groups. Giving Syracuse the
+    strongest color is a non-arbitrary choice, but BU's saturated orange competes with it. If the story is
+    "Syracuse vs. the rest", the three peers could all be gray.</p>
+    <p><strong>Context:</strong> The source is given, but the most dramatic feature, Syracuse's jump to about 69% in 2020,
+    has no annotation. It coincides with the first pandemic admissions cycle, but the chart can't tell us whether that's
+    the reason.</p>
+    <p><strong>Ethics &amp; trust:</strong> A neutral tone, no alarming title or colors, and an honest scale: it earns
+    trust. One risk: setting Syracuse's high rate beside its peers invites readers to equate "less selective"
+    with "worse", which the data alone can't support.</p>
+
+    <h4>Verdict &amp; one improvement</h4>
+    <p>A strong, honest chart, held back by a title that doesn't state its point. The one improvement: a title that
+    states the finding, e.g., "Syracuse admits far more of its applicants than its peers".</p>
   </div>
 
   <div class="entry">
-    <h3> Visualization #2</h3>
-    <img src="Syracuse_Enrollment_WSJ_31Aug2026.png" />
-    <p class="caption">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pulvinar sem id eleifend cursus. Sed purus tellus, accumsan a odio in, lacinia lacinia sem. In nisl arcu, mollis a nibh a, vehicula iaculis ipsum. Proin ac ante vel odio venenatis bibendum ac vitae lacus. Morbi id justo ullamcorper, imperdiet diam id, sollicitudin ligula. Nunc posuere sodales pulvinar. Mauris luctus dignissim eros, eu gravida dolor volutpat tempus. Sed vitae ipsum turpis. Etiam at ipsum lorem. Duis aliquet augue eu nulla varius aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    </p>
+    <h3>Visualization B (the weaker one)</h3>
+    <p class="stub">In your project, your second chart on the same issue goes here, with the same headings: image,
+    source, What it shows, The story &amp; whose story, Design critique, and Verdict &amp; one improvement. For this issue,
+    a useful partner would be a chart of the <em>number</em> of applications, which would test the story Visualization A
+    tells.</p>
   </div>
 
-  <div class="entry">
-    <h3> Visualization #3</h3>
-    <img src="Car_sunroof_Exploding_wsj_31Aug2026.png" />
-    <p class="caption">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pulvinar sem id eleifend cursus. Sed purus tellus, accumsan a odio in, lacinia lacinia sem. In nisl arcu, mollis a nibh a, vehicula iaculis ipsum. Proin ac ante vel odio venenatis bibendum ac vitae lacus. Morbi id justo ullamcorper, imperdiet diam id, sollicitudin ligula. Nunc posuere sodales pulvinar. Mauris luctus dignissim eros, eu gravida dolor volutpat tempus. Sed vitae ipsum turpis. Etiam at ipsum lorem. Duis aliquet augue eu nulla varius aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    </p>
-  </div>  
+</section>
 
+<section>
+  <h2>AI Reflection</h2>
+  <p class="stub">Your AI Reflection goes here: tool and date, which visualization, the prompt, the AI's response, your
+  comparison, one benefit and one limitation, and any other AI use. See the template for the exact headings.</p>
 </section>
 
 </div>

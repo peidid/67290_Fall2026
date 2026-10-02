@@ -13,8 +13,7 @@ Everything runs in the **browser** on Tableau Public. Nothing to install.
 
 | File | Who it's for | What it is |
 |---|---|---|
-| **[`PRE-CLASS.md`](./PRE-CLASS.md)** | Students, **by Mon 26 Oct** | The one task before the lab: a Tableau Public account |
-| **[`Lab2-Tableau.ipynb`](./Lab2-Tableau.ipynb)** | Students, **in class** | The handbook. Follow it top to bottom. |
+| **[`Lab2-Tableau.ipynb`](./Lab2-Tableau.ipynb)** | Students | The handbook. Its first section, **"Before you walk in"**, is the pre-class task — post it on Canvas by **Mon 26 Oct**. The rest is followed in class, top to bottom. |
 | [`data/`](./data/) | Students | The two files you upload. Clone or download before Saturday. |
 | [`TAKE-HOME-embed-in-observable.md`](./TAKE-HOME-embed-in-observable.md) | Students, optional | Put your viz inside the Lab 1 Observable dashboard |
 | [`expected-deliverable/`](./expected-deliverable/) | **TA & instructor** | Run sheet, rubric, prep checklist, failure modes |
